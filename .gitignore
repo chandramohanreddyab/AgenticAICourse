@@ -1,5 +1,6 @@
 .venvagentic
 .agenticaienv
+.agenticaienv/*
 .vscode
 *.env
 ./src/langchain_notebooks/assignments
