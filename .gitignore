@@ -3,9 +3,8 @@
 .agenticaienv/*
 .vscode
 *.env
-./src/langchain_notebooks/assignments
-./src/autogen/tutorials
 .ipynb_checkpoints/
+src/langchain_notebooks/assignments/
 
 # Python virtual environment
 agenticaienv/
