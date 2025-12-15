@@ -1,3 +1,7 @@
 .venvagentic
 .agenticaienv
+.vscode
 *.env
+./src/langchain_notebooks/assignments
+./src/autogen/tutorials
+
