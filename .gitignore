@@ -5,4 +5,17 @@
 *.env
 ./src/langchain_notebooks/assignments
 ./src/autogen/tutorials
+.ipynb_checkpoints/
+
+# Python virtual environment
+agenticaienv/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
 
